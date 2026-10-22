@@ -4,14 +4,14 @@ I build accessible websites and web applications with WordPress, PHP, JavaScript
 
 ## My projects
 
-- **[POURcast](https://github.com/mattcowan/POURcast)** — a React study app for the IAAP CPACC and WAS exams, with practice quizzes and a reference library. Playwright, axe, and Guidepup test it. [Use the app](https://www.mnc4.com/pourcast)
 - **[Typography Stylist](https://github.com/mattcowan/typography-stylist-for-wordpress)** — a block editor plugin for OpenType features, alternate glyphs, and variable font axes. Screen readers read styled text as plain words. [WordPress.org](https://wordpress.org/plugins/typography-stylist/)
 - **[EditRail](https://github.com/mattcowan/EditRail)** — a movable toolbar for the block editor. Pin blocks, insert them where you click, and move sections of long documents. Every action works with a keyboard. [WordPress.org](https://wordpress.org/plugins/editrail/)
+- **[POURcast](https://github.com/mattcowan/POURcast)** — a React study app for the IAAP CPACC and WAS exams, with practice quizzes and a reference library. Playwright, axe, and Guidepup test it. [Use the app](https://www.mnc4.com/pourcast)
 - **[Find Blocks, Patterns & Shortcodes](https://github.com/mattcowan/find-blocks-patterns-and-shortcodes)** — a WordPress admin tool that finds which posts use a block, a pattern, or a shortcode. [WordPress.org](https://wordpress.org/plugins/find-blocks-patterns-shortcodes/)
 
 ## Open source contributions
 
-- **[GatherPress](https://github.com/GatherPress/gatherpress)** — an event-management plugin for the WordPress community. I am a contributor with write access, and I review pull requests from other contributors. My work includes accessibility fixes and the plugin's uninstall system. [My pull requests](https://github.com/GatherPress/gatherpress/pulls?q=author%3Amattcowan)
+- **[GatherPress](https://github.com/GatherPress/gatherpress)** — an event-management plugin for the WordPress community. [My pull requests](https://github.com/GatherPress/gatherpress/pulls?q=author%3Amattcowan)
 - **[Guidepup](https://github.com/guidepup/guidepup)** — a TypeScript library that automates screen readers for tests. [My pull requests](https://github.com/guidepup/guidepup/pulls?q=author%3Amattcowan)
 
 ## How I work
